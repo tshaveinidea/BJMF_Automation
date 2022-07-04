@@ -1,4 +1,4 @@
-# README  v6.0
+# README  v0.6.0
 
 # 声明｜Statement
 
